@@ -1400,12 +1400,12 @@ button {
 .navigation-three .site-branding {
   position: relative;
   z-index: 2;
-  padding: 35px;
-  max-width: 190px;
+  padding: 5px;
+  max-width: 120px;
   background-color: #eece38;
-  border-radius: 7px;
+  border-radius: 9px;
   margin-top: 25px;
-  margin-bottom: -120px;
+  margin-bottom: -100px;
 }
 @media (max-width: 767px) {
   .navigation-three .site-branding {
